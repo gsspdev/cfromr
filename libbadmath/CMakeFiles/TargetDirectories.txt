@@ -1,0 +1,7 @@
+/Users/gssp/development/rust_projects/cfromr/libbadmath/CMakeFiles/badmath.dir
+/Users/gssp/development/rust_projects/cfromr/libbadmath/CMakeFiles/edit_cache.dir
+/Users/gssp/development/rust_projects/cfromr/libbadmath/CMakeFiles/rebuild_cache.dir
+/Users/gssp/development/rust_projects/cfromr/libbadmath/CMakeFiles/list_install_components.dir
+/Users/gssp/development/rust_projects/cfromr/libbadmath/CMakeFiles/install.dir
+/Users/gssp/development/rust_projects/cfromr/libbadmath/CMakeFiles/install/local.dir
+/Users/gssp/development/rust_projects/cfromr/libbadmath/CMakeFiles/install/strip.dir
